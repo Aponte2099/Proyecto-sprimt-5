@@ -14,7 +14,7 @@ Este proyecto consiste en una aplicación web desarrollada con Streamlit que pro
 - **Streamlit**: Framework para desarrollar y desplegar la aplicación web.
 
 ## Cómo Usar
-1. Accede a la aplicación web a través de  Network URL:[http://10.220.52.201:8501]. External URL:[http://44.227.217.144:8501]
+1. Accede a la aplicación web a través de [https://proyecto-sprimt-5.onrender.com]
 3. Utiliza los botones proporcionados para generar las visualizaciones deseadas.
 4. Interactúa con los gráficos para obtener insights más detallados.
 
